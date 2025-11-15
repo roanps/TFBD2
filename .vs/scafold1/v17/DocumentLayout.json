@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\360454\\source\\repos\\TFBD2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|c:\\users\\360454\\source\\repos\\tfbd2\\repository\\passageiropassagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|solutionrelative:repository\\passageiropassagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|c:\\users\\360454\\source\\repos\\tfbd2\\data\\scafold1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|solutionrelative:data\\scafold1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|c:\\users\\360454\\source\\repos\\tfbd2\\data\\dbunoescii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|solutionrelative:data\\dbunoescii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|c:\\users\\360454\\source\\repos\\tfbd2\\repository\\ipassageiropassagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|solutionrelative:repository\\ipassageiropassagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|c:\\users\\360454\\source\\repos\\tfbd2\\repository\\ipassageiropassagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|solutionrelative:repository\\ipassageiropassagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 515,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +43,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPassageiroPassagemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\360454\\source\\repos\\TFBD2\\Repository\\IPassageiroPassagemRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IPassageiroPassagemRepository.cs",
+              "ToolTip": "C:\\Users\\360454\\source\\repos\\TFBD2\\Repository\\IPassageiroPassagemRepository.cs",
+              "RelativeToolTip": "Repository\\IPassageiroPassagemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T00:59:57.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPassageiroPassagem.cs",
+              "DocumentMoniker": "C:\\Users\\360454\\source\\repos\\TFBD2\\Repository\\IPassageiroPassagem.cs",
+              "RelativeDocumentMoniker": "Repository\\IPassageiroPassagem.cs",
+              "ToolTip": "C:\\Users\\360454\\source\\repos\\TFBD2\\Repository\\IPassageiroPassagem.cs",
+              "RelativeToolTip": "Repository\\IPassageiroPassagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T00:54:35.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBUnoescII.cs",
+              "DocumentMoniker": "C:\\Users\\360454\\source\\repos\\TFBD2\\Data\\DBUnoescII.cs",
+              "RelativeDocumentMoniker": "Data\\DBUnoescII.cs",
+              "ToolTip": "C:\\Users\\360454\\source\\repos\\TFBD2\\Data\\DBUnoescII.cs",
+              "RelativeToolTip": "Data\\DBUnoescII.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA3wCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T00:53:05.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scafold1Context.cs",
+              "DocumentMoniker": "C:\\Users\\360454\\source\\repos\\TFBD2\\Data\\Scafold1Context.cs",
+              "RelativeDocumentMoniker": "Data\\Scafold1Context.cs",
+              "ToolTip": "C:\\Users\\360454\\source\\repos\\TFBD2\\Data\\Scafold1Context.cs",
+              "RelativeToolTip": "Data\\Scafold1Context.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T00:46:52.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PassageiroPassagemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\360454\\source\\repos\\TFBD2\\Repository\\PassageiroPassagemRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\PassageiroPassagemRepository.cs",
+              "ToolTip": "C:\\Users\\360454\\source\\repos\\TFBD2\\Repository\\PassageiroPassagemRepository.cs",
+              "RelativeToolTip": "Repository\\PassageiroPassagemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T00:29:33.931Z",
+              "EditorCaption": ""
             }
           ]
         }

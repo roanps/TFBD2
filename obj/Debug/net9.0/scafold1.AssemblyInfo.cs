@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("scafold1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71418f3e050c3bd2e32928e514a5929187f6fab0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f81171e49afb0104db52a0c4fa57e3b06135748")]
 [assembly: System.Reflection.AssemblyProductAttribute("scafold1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("scafold1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

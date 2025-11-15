@@ -5,6 +5,8 @@ namespace scafold1.Models;
 
 public class Passagem
 {
+    public int IdPassagem { get; set; }
+
     public int IdPassageiro { get; set; }
 
     public int IdVoo { get; set; }

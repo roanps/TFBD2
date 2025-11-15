@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\360454\\source\\repos\\TFBD2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|c:\\users\\360454\\source\\repos\\tfbd2\\repository\\aeroportorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|solutionrelative:repository\\aeroportorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|c:\\users\\360454\\source\\repos\\tfbd2\\repository\\passageiropassagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|solutionrelative:repository\\passageiropassagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|c:\\users\\360454\\source\\repos\\tfbd2\\repository\\aeronaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|solutionrelative:repository\\aeronaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|c:\\users\\360454\\source\\repos\\tfbd2\\repository\\ipassageiropassagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|solutionrelative:repository\\ipassageiropassagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|c:\\users\\360454\\source\\repos\\tfbd2\\models\\aeronave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|solutionrelative:models\\aeronave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|c:\\users\\360454\\source\\repos\\tfbd2\\data\\dbunoescii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|solutionrelative:data\\dbunoescii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|c:\\users\\360454\\source\\repos\\tfbd2\\repository\\iaeronaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|solutionrelative:repository\\iaeronaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|c:\\users\\360454\\source\\repos\\tfbd2\\data\\scafold1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416178DA-9CA5-44F5-BD06-26767FE45B57}|scafold1.csproj|solutionrelative:data\\scafold1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 515,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,54 +42,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AeroportoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\360454\\source\\repos\\TFBD2\\Repository\\AeroportoRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\AeroportoRepository.cs",
-              "ToolTip": "C:\\Users\\360454\\source\\repos\\TFBD2\\Repository\\AeroportoRepository.cs",
-              "RelativeToolTip": "Repository\\AeroportoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T23:17:33.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AeronaveRepository.cs",
-              "DocumentMoniker": "C:\\Users\\360454\\source\\repos\\TFBD2\\Repository\\AeronaveRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\AeronaveRepository.cs",
-              "ToolTip": "C:\\Users\\360454\\source\\repos\\TFBD2\\Repository\\AeronaveRepository.cs",
-              "RelativeToolTip": "Repository\\AeronaveRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "IPassageiroPassagem.cs",
+              "DocumentMoniker": "C:\\Users\\360454\\source\\repos\\TFBD2\\Repository\\IPassageiroPassagem.cs",
+              "RelativeDocumentMoniker": "Repository\\IPassageiroPassagem.cs",
+              "ToolTip": "C:\\Users\\360454\\source\\repos\\TFBD2\\Repository\\IPassageiroPassagem.cs",
+              "RelativeToolTip": "Repository\\IPassageiroPassagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T22:42:10.818Z",
+              "WhenOpened": "2025-11-15T00:54:35.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Aeronave.cs",
-              "DocumentMoniker": "C:\\Users\\360454\\source\\repos\\TFBD2\\Models\\Aeronave.cs",
-              "RelativeDocumentMoniker": "Models\\Aeronave.cs",
-              "ToolTip": "C:\\Users\\360454\\source\\repos\\TFBD2\\Models\\Aeronave.cs",
-              "RelativeToolTip": "Models\\Aeronave.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Title": "DBUnoescII.cs",
+              "DocumentMoniker": "C:\\Users\\360454\\source\\repos\\TFBD2\\Data\\DBUnoescII.cs",
+              "RelativeDocumentMoniker": "Data\\DBUnoescII.cs",
+              "ToolTip": "C:\\Users\\360454\\source\\repos\\TFBD2\\Data\\DBUnoescII.cs",
+              "RelativeToolTip": "Data\\DBUnoescII.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA3wCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T22:44:37.633Z",
+              "WhenOpened": "2025-11-15T00:53:05.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IAeronaveRepository.cs",
-              "DocumentMoniker": "C:\\Users\\360454\\source\\repos\\TFBD2\\Repository\\IAeronaveRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\IAeronaveRepository.cs",
-              "ToolTip": "C:\\Users\\360454\\source\\repos\\TFBD2\\Repository\\IAeronaveRepository.cs",
-              "RelativeToolTip": "Repository\\IAeronaveRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Title": "Scafold1Context.cs",
+              "DocumentMoniker": "C:\\Users\\360454\\source\\repos\\TFBD2\\Data\\Scafold1Context.cs",
+              "RelativeDocumentMoniker": "Data\\Scafold1Context.cs",
+              "ToolTip": "C:\\Users\\360454\\source\\repos\\TFBD2\\Data\\Scafold1Context.cs",
+              "RelativeToolTip": "Data\\Scafold1Context.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBQAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T22:44:11.411Z",
+              "WhenOpened": "2025-11-15T00:46:52.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PassageiroPassagemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\360454\\source\\repos\\TFBD2\\Repository\\PassageiroPassagemRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\PassageiroPassagemRepository.cs",
+              "ToolTip": "C:\\Users\\360454\\source\\repos\\TFBD2\\Repository\\PassageiroPassagemRepository.cs",
+              "RelativeToolTip": "Repository\\PassageiroPassagemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T00:29:33.931Z",
               "EditorCaption": ""
             }
           ]

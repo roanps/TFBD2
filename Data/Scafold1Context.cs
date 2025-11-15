@@ -18,7 +18,8 @@ namespace scafold1.Data
         public DbSet<Passagem> Passagens { get; set; }
         public DbSet<Poltrona> Poltronas { get; set; }
         public DbSet<Voo> Voos { get; set; }
-        
+        public DbSet<PassageiroPassagem> PassageiroPassagens { get; set; }
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {       
